@@ -1,0 +1,88 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-wechat-ios@0.3.0",
+        "scope": null,
+        "escapedName": "react-native-wechat-ios",
+        "name": "react-native-wechat-ios",
+        "rawSpec": "0.3.0",
+        "spec": "0.3.0",
+        "type": "version"
+      },
+      "/Users/test/Desktop/Both/RunnerCampShop"
+    ]
+  ],
+  "_from": "react-native-wechat-ios@0.3.0",
+  "_id": "react-native-wechat-ios@0.3.0",
+  "_inCache": true,
+  "_location": "/react-native-wechat-ios",
+  "_nodeVersion": "4.3.2",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-wechat-ios-0.3.0.tgz_1462849409528_0.008214434375986457"
+  },
+  "_npmUser": {
+    "name": "yannxiao",
+    "email": "striverx@163.com"
+  },
+  "_npmVersion": "2.14.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-wechat-ios@0.3.0",
+    "scope": null,
+    "escapedName": "react-native-wechat-ios",
+    "name": "react-native-wechat-ios",
+    "rawSpec": "0.3.0",
+    "spec": "0.3.0",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-wechat-ios/-/react-native-wechat-ios-0.3.0.tgz",
+  "_shasum": "f1449c6839a085022f6658831a17207a68ca1f82",
+  "_shrinkwrap": null,
+  "_spec": "react-native-wechat-ios@0.3.0",
+  "_where": "/Users/test/Desktop/Both/RunnerCampShop",
+  "author": {
+    "name": "Yann Xiao"
+  },
+  "bugs": {
+    "url": "https://github.com/beefe/react-native-wechat-ios/issues"
+  },
+  "dependencies": {},
+  "description": "Wechat SDK for React Native(iOS).",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "f1449c6839a085022f6658831a17207a68ca1f82",
+    "tarball": "https://registry.npmjs.org/react-native-wechat-ios/-/react-native-wechat-ios-0.3.0.tgz"
+  },
+  "gitHead": "72698da58153cdabad43b65dd3d742112ffc64c2",
+  "homepage": "https://github.com/beefe/react-native-wechat-ios#readme",
+  "keywords": [
+    "wechat",
+    "react-native",
+    "ios"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "yannxiao",
+      "email": "striverx@163.com"
+    }
+  ],
+  "name": "react-native-wechat-ios",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beefe/react-native-wechat-ios.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.3.0"
+}
